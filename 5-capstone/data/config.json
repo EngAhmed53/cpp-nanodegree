@@ -1,0 +1,12 @@
+{
+  "configs": [
+    {
+      "id": "Video-1",
+      "source": "../assets/London Walk.mp4"
+    },
+    {
+      "id": "Video-2",
+      "source": "../assets/London Walk 2.mp4"
+    }
+  ]
+}
